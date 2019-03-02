@@ -1,9 +1,9 @@
 
-(docs/images/Screenshot1.png)
-(docs/images/Screenshot2.png)
-(docs/images/Screenshot3.png)
-(docs/images/Screenshot4.png)
-(docs/images/Screenshot5.png)
+![Screenshot1.png](docs/images/Screenshot1.png)
+![Screenshot2.png](docs/images/Screenshot2.png)
+![Screenshot3.png](docs/images/Screenshot3.png)
+![Screenshot4.png](docs/images/Screenshot4.png)
+![Screenshot5.png](docs/images/Screenshot5.png)
 
 ```
 npm install
